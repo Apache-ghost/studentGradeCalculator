@@ -63,4 +63,4 @@ Contributions are welcome! If you'd like to contribute to the Student Grade Mana
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-Developed with ❤️ by [Guegouo M. Guiddel](**https://github.com/Apache-ghost**)
+Developed with ❤️ by [Guegouo M. Guiddel](https://github.com/https://github.com/Apache-ghost)
